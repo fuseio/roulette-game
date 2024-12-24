@@ -1,0 +1,4 @@
+node_modules
+build
+src/backend/artifacts
+src/backend/cache
